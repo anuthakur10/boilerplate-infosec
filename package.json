@@ -15,5 +15,6 @@
 		"express",
 		"freecodecamp"
 	],
-	"license": "MIT"
+	"license": "MIT",
+	"author": "fcc",
 }
